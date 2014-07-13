@@ -59,3 +59,5 @@ arduino and the Linux box.
 
 
 Any feedback can go to: mail@vanheusden.com
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=flok&url=https://github.com/flok99/radio_gateway_rpi&title=radio_gateway_rpi&language=&tags=github&category=software)
